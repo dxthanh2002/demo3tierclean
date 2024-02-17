@@ -1,0 +1,17 @@
+D:\ASP.net\Project\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\ASP.net\Project\BLL\bin\Debug\net7.0\BLL.dll
+D:\ASP.net\Project\BLL\bin\Debug\net7.0\BLL.pdb
+D:\ASP.net\Project\BLL\bin\Debug\net7.0\BOL.dll
+D:\ASP.net\Project\BLL\bin\Debug\net7.0\DAL.dll
+D:\ASP.net\Project\BLL\bin\Debug\net7.0\BOL.pdb
+D:\ASP.net\Project\BLL\bin\Debug\net7.0\DAL.pdb
+D:\ASP.net\Project\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\ASP.net\Project\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net\Project\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\ASP.net\Project\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\ASP.net\Project\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\ASP.net\Project\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\ASP.net\Project\BLL\obj\Debug\net7.0\BLL.dll
+D:\ASP.net\Project\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\ASP.net\Project\BLL\obj\Debug\net7.0\BLL.pdb
+D:\ASP.net\Project\BLL\obj\Debug\net7.0\ref\BLL.dll

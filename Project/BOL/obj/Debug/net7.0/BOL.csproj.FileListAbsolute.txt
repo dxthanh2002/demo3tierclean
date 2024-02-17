@@ -1,0 +1,11 @@
+D:\ASP.net\Project\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\ASP.net\Project\BOL\bin\Debug\net7.0\BOL.dll
+D:\ASP.net\Project\BOL\bin\Debug\net7.0\BOL.pdb
+D:\ASP.net\Project\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net\Project\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\ASP.net\Project\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\ASP.net\Project\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\ASP.net\Project\BOL\obj\Debug\net7.0\BOL.dll
+D:\ASP.net\Project\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\ASP.net\Project\BOL\obj\Debug\net7.0\BOL.pdb
+D:\ASP.net\Project\BOL\obj\Debug\net7.0\ref\BOL.dll
